@@ -3,8 +3,8 @@
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2024-07-03 16:16:15
 # DOMAIN: 3
-# DOMAIN-SUFFIX: 18
-# TOTAL: 21
+# DOMAIN-SUFFIX: 20
+# TOTAL: 23
 payload:
   - DOMAIN,bcbolt446c5271-a.akamaihd.net
   - DOMAIN,edge.api.brightcove.com
@@ -27,3 +27,5 @@ payload:
   - DOMAIN-SUFFIX,tvmedia.net.au
   - DOMAIN-SUFFIX,videos-f.jwpsrv.com
   - DOMAIN-SUFFIX,youboranqs01.com
+  - DOMAIN-SUFFIX,1804263672.rsc.cdn77.org
+  - DOMAIN-SUFFIX,amazonaws.com
