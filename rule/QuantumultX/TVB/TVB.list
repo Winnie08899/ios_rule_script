@@ -27,5 +27,7 @@ HOST-SUFFIX,tvbweekly.com,TVB
 HOST-SUFFIX,tvmedia.net.au,TVB
 HOST-SUFFIX,videos-f.jwpsrv.com,TVB
 HOST-SUFFIX,youboranqs01.com,TVB
+HOST-SUFFIX,1804263672.rsc.cdn77.org,TVB
+HOST-SUFFIX,amazonaws.com,TVB
 USER-AGENT,encoreTVB*,TVB
 USER-AGENT,mytv*,TVB
